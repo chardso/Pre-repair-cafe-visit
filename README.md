@@ -27,21 +27,21 @@ And the following were regestered and more still on the way.
    solution; replaced
    awaits date
    
-   # Radios,[3] one wiring,one power transistor,and the other station box replacement.
-   AWAITS REPAIR DATE.
+   - Radios,[3] one wiring,one power transistor,and the other station box replacement.
+   # AWAITS REPAIR DATE.
    
    3.CHANDIA FLORA;Registered
    
-   # Solar ,diode blown ,requires replacement
+   - Solar ,diode blown ,requires replacement
    
-   # Radios,[2]   all power transistor burnt,requires replacement and the other radio 
+   - Radios,[2]   all power transistor burnt,requires replacement and the other radio 
    
-   # UNHCR blue lighting systems,[2] cleansing,changing their switches
-   AWAITS DATE.
+   - UNHCR blue lighting systems,[2] cleansing,changing their switches
+   # AWAITS DATE.
    
    4.ASHRAF RABBI ABDDALA
    
-   # Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
+   - Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
    
  
    
