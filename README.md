@@ -20,7 +20,7 @@ And the following were regestered and more still on the way.
   findings;transistor TDA 7509 ,Short cicuit
    await repair date.
    
-   2.JOICE KONYIO;Registered
+   # JOICE KONYIO;Registered
    
    # Solar
    diode burnt due to short circuit
@@ -30,7 +30,7 @@ And the following were regestered and more still on the way.
    - Radios,[3] one wiring,one power transistor,and the other station box replacement.
    # AWAITS REPAIR DATE.
    
-   3.CHANDIA FLORA;Registered
+   # CHANDIA FLORA;Registered
    
    - Solar ,diode blown ,requires replacement
    
@@ -39,7 +39,7 @@ And the following were regestered and more still on the way.
    - UNHCR blue lighting systems,[2] cleansing,changing their switches
    # AWAITS DATE.
    
-   4.ASHRAF RABBI ABDDALA
+   # ASHRAF RABBI ABDDALA
    
    - Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
    
