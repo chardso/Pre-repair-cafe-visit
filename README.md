@@ -1,7 +1,7 @@
 The visitation was aimed at identifying and regestering the faulty devices in community in preparation of the coming repair cafe .
 
 And the following were regestered and more still on the way.
-1. YEF ;Registered 
+## YEF ;Registered 
    
    # Aflat screen
    
@@ -11,7 +11,7 @@ And the following were regestered and more still on the way.
    
    solution;replacing capacitor and transistor.
    
-   AWAITS THE REPAIR DAY.
+   ## AWAITS THE REPAIR DAY.
   
   # Power regulator;
   
@@ -22,7 +22,7 @@ And the following were regestered and more still on the way.
    
    # JOICE KONYIO;Registered
    
-   # Solar
+   - Solar
    diode burnt due to short circuit
    solution; replaced
    awaits date
