@@ -42,6 +42,7 @@ And the following were regestered and more still on the way.
    # ASHRAF RABBI ABDDALA
    
    - Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
+   - One FM radio,wiring.
    
  
    
