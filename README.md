@@ -13,14 +13,14 @@ And the following were regestered and more still on the way.
    
    ## Awaits the day of repair.
   
-  # Powerregulator;
+    # Powerregulator;
   
   Giving out less power,burns devices
   
   findings;transistor TDA 7509 ,Short cicuit
    await repair date.
    
-   # Joice Konyio;Registered
+   # Joice Konyio;  Registered
    
    - Solar
    diode burnt due to short circuit
@@ -28,7 +28,7 @@ And the following were regestered and more still on the way.
    awaits date
    
    - Radios,[3] one wiring,one power transistor,and the other station box replacement.
-   # AWAITS REPAIR DATE.
+   # Awaits repair date
    
    # Chandia Flora;Registered
    
