@@ -3,7 +3,7 @@ The visitation was aimed at identifying and regestering the faulty devices in co
 And the following were regestered and more still on the way.
 ## YEF ;Registered 
    
-   # Aflat screen
+   # A flat screen
    
    the problem of short circuit,
    
@@ -11,16 +11,16 @@ And the following were regestered and more still on the way.
    
    solution;replacing capacitor and transistor.
    
-   ## AWAITS THE REPAIR DAY.
+   ## Awaits the day of repair.
   
-  # Power regulator;
+  # Powerregulator;
   
   Giving out less power,burns devices
   
   findings;transistor TDA 7509 ,Short cicuit
    await repair date.
    
-   # JOICE KONYIO;Registered
+   # Joice Konyio;Registered
    
    - Solar
    diode burnt due to short circuit
@@ -30,21 +30,21 @@ And the following were regestered and more still on the way.
    - Radios,[3] one wiring,one power transistor,and the other station box replacement.
    # AWAITS REPAIR DATE.
    
-   # CHANDIA FLORA;Registered
+   # Chandia Flora;Registered
    
    - Solar ,diode blown ,requires replacement
    
    - Radios,[2]   all power transistor burnt,requires replacement and the other radio 
    
    - UNHCR blue lighting systems,[2] cleansing,changing their switches
-   # AWAITS DATE.
+   # Awaits repair date
    
-   # ASHRAF RABBI ABDDALA
+   # Ashraf Rabbi Abdalah
    
    - Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
    - One FM radio,wiring.
    
-   # LAGU MOSES
+   # Lagu Moses
    - Registerted a bicycle,the brake system missing,peddles,full brake system and peddles to be replaced.
    
  
