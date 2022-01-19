@@ -24,7 +24,7 @@ And the following were regestered and more still on the way.
    
    - Solar
    diode burnt due to short circuit
-   solution; replaced
+   solution; replacement.
    awaits date
    
    - Radios,[3] one wiring,one power transistor,and the other station box replacement.
