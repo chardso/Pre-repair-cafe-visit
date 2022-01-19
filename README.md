@@ -5,7 +5,7 @@ And the following were regestered and more still on the way.
    
    # A flat screen
    
-   the problem of short circuit,
+   The problem of short circuit,
    
    checked and findings, are capacitor 450v,68uf and transistor TDA 7509 burnt
    
