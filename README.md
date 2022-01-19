@@ -44,6 +44,9 @@ And the following were regestered and more still on the way.
    - Three solars ,one replacing diode,two replacing the charging pins,these are 3v solars of the blue UNHCR lights.
    - One FM radio,wiring.
    
+   # LAGU MOSES
+   - Registerted a bicycle,the brake system missing,peddles,full brake system and peddles to be replaced.
+   
  
    
   
