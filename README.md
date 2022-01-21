@@ -13,7 +13,7 @@ And the following were regestered and more still on the way.
    
    ## Awaits the day of repair.
   
-   # Power regulator;
+   #  Power regulator;
   
   Giving out less power,burns devices
   
